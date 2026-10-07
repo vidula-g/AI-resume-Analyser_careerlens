@@ -1,0 +1,10 @@
+{
+  "description": "Analyze your resume with AI and receive personalized job recommendations, helping job seekers enhance their applications and find suitable positions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
